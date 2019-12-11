@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "BootC_Proj_ConfigServer",
+			"path": "BootC_Proj_ConfigServer"
+		},
+		{
+			"name": "discoveryservice",
+			"path": "discoveryservice"
+		},
+		{
+			"name": "BootC_Proj_StudentService",
+			"path": "BootC_Proj_StudentService"
+		},
+		{
+			"name": "familyservice",
+			"path": "familyservice"
+		},
+		{
+			"path": "teacherservice"
+		},
+		{
+			"path": "courseservice"
+		},
+		{
+			"path": "apigatewayservice"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
